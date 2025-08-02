@@ -12,7 +12,7 @@ It's recommended to use a Python virtual environment: `python -m venv venv`
 
 Activation on Linux: `source venv/bin/activate`
 
-Activation on Linux: `.\venv\Scripts\activate`
+Activation on Windows: `.\venv\Scripts\activate` (use `Set-ExecutionPolicy Unrestricted -Scope Process`)
 
 Install dependencies: `pip install -r requirements.txt`
 
@@ -35,3 +35,4 @@ Options:
 - `--monitor`: monitor to record, `1` by default
 - `--width` and `--height`: part of the screen to record, `1920` and `1080` by default
 - `--fps`: FPS of the video, `30` by default
+
