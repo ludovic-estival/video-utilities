@@ -20,6 +20,7 @@ Some commands:
 - `yt-dlp.exe URL --cookies-from-browser BROWSER --no-playlist --list-formats`
 - `yt-dlp.exe URL --cookies-from-browser BROWSER --no-playlist -f FORMAT`
 - `yt-dlp.exe URL -x --audio-format mp3`
+- `yt-dlp.exe -U` to update
 
 
 ## Video/audio editing
@@ -35,3 +36,4 @@ Some commands:
 ## Internet Download Manager
 
 [Internet Download Manager](https://www.internetdownloadmanager.com/)
+
